@@ -1,4 +1,4 @@
-module github.com/kagescode/libdns-rcodezeroacme
+module github.com/nic-at/libdns-rcodezeroacme
 
 go 1.22
 
