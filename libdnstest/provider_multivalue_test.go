@@ -10,7 +10,7 @@ import (
 
 	"github.com/libdns/libdns"
 
-	rcodezero "github.com/kagescode/libdns-rcodezeroacme"
+	rcodezero "github.com/nic-at/libdns-rcodezeroacme"
 )
 
 func randHexFQDN(n int) string {
